@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppRetrofit</string>
+    <string name="track_title_default">Track Title</string>
+    <string name="artist_name_default">Artist Name</string>
+    <string name="hint_track_title">Enter track title</string>
+    <string name="hint_artist_name">Enter artist name</string>
+    <string name="hint_album_name">Enter album name</string>
+    <string name="button_add_track">Add Track</string>
+    <string name="save_button">Save</string>
+    <string name="toast_error">Error: %1$s</string>
+    <string name="edit_track_title_hint">Track Title</string>
+    <string name="edit_track_album_hint">Enter Album Name</string>
+    <string name="edit_track_artist_hint">Artist Name</string>
+</resources>
